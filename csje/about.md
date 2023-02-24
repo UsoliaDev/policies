@@ -26,6 +26,9 @@ Hi, 我们是Coldplay Network
 <br>
 <br>
 <br>
+
+#### 接下来你可以：
+
  - [阅读新手指南](https://docs.coldplay.io/#/csje/guides-new)
  - [加入服务器](https://docs.coldplay.io/#/)
  - QQ群：641358246
