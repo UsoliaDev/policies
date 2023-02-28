@@ -1,6 +1,6 @@
 # 查找史莱姆区块
 
->该功能同样存在于 Planet 服务器，参见[查找史莱姆区块（Planet）](https://docs.coldplay.io/#/csje/planet/slimechunk-view) 
+>该功能同样存在于 Planet 服务器，参见[查找史莱姆区块（Planet）](https://docs.coldplay.io/#/docs/server/pl01/slimechunk-view) 
 
 *还在使用各种奇奇怪怪的方法寻找史莱姆区块吗？现在你不再需要这样做了*
 
