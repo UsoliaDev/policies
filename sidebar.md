@@ -14,7 +14,7 @@
     * [重置密码](docs/server/resetpass.md)
     * [Discord服务器](docs/server/discord.md)
     * [聊天频道](docs/server/channel.md)
-    * [关联服务器与论坛帐户](docs/server/link.md)
+    * [关联服务器与论坛帐号](docs/server/link.md)
   - Creative Land II
     * [概览](docs/server/cl02/introduction.md)
     * [生物群系（未完成）](docs/server/cl02/biomes.md)
