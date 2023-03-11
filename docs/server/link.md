@@ -1,19 +1,15 @@
-# 关联服务器与论坛帐户
+# 关联服务器与论坛账号
 
-*通过将您的游戏账户关联到论坛账户，您将可以同步您的会员等级，及在您忘记服务器账号密码向我们提交申请。*
+*将你的游戏账号关联到论坛账号以在论坛上获取你的会员等级（如有）相对应的论坛权限，及在你忘记服务器账号密码时向我们提交申请以重置密码（仅适用于使用非正版账号游戏的玩家）。*
 
 ----------
 
-在大厅服务器中使用输入 /link ，耐心等待几秒后，你将收到如下提示
+在大厅服务器中输入指令 `/link` ，耐心等待几秒后，你将收到以下提示：
 
-![](https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/48043294412/original/pM3Cwzm8-mSsmIZpm06N_j900z5thE54Ug.png?1591497979)
+![](https://coldplay.io/img/docs/link-account.png)
 
-戳他！
+戳它！你将来到我们的官网 [coldplay.io](https://coldplay.io) 以完成账号关联。
 
-你将被导向我们的官网coldplay.io
+如果你还没有登录，你将被要求在关联账号前登录。
 
-如果您还没有登录，您将被要求在关联账号前登录
-
-为了确保您已成功关联您的账户，请访问
-
-[https://coldplay.io/account/connect-your-minecraft-account](https://coldplay.io/account/connect-your-minecraft-account)
+为了确保你已成功完成账号关联，请访问 [https://coldplay.io/account/link-minecraft](https://coldplay.io/account/link-minecraft)
