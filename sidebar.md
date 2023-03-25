@@ -22,14 +22,16 @@
     * [自然灾害（未完成）](docs/server/cl02/disasters.md)
     * [箱子商店](docs/server/cl02/chest-store.md)
     * [领地与联邦](docs/server/cl02/lands-cl.md)
-	* [查找史莱姆区块](docs/server/cl02/slimechunk-view.md)
+	  * [查找史莱姆区块](docs/server/cl02/slimechunk-view.md)
+    * [玩家交易](docs/server/cl02/trade.md)
   - Planet
     * [季节与气候（未完成）](docs/server/pl01/seasons.md)
     * [大陆桥](docs/server/pl01/continent-bridge.md)
     * [轨交建设标准](docs/server/pl01/railway-standards.md)
     * [铁路加速](docs/server/pl01/speedmine.md)
     * [领地与联邦](docs/server/pl01/lands-pl.md)
-	* [查找史莱姆区块](docs/server/pl01/slimechunk-view.md)
+	  * [查找史莱姆区块](docs/server/pl01/slimechunk-view.md)
+    * [玩家交易](docs/server/pl01/trade.md)
   - 其他
     * [网络故障排除](docs/server/network-troubleshoot.md)
     * [数据隐私说明](docs/server/privacy.md)
