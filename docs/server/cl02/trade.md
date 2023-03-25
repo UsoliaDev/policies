@@ -8,7 +8,7 @@
 
 交易演示视频（可能不具有时效性，请以实际游戏为准）
 
-[example](https://coldplay.io/video/docs/trade.example.mp4 ':include :type=video height=500px')
+[example](https://coldplay.io/video/docs/trade.example.mp4 ':include :type=video height=500px controls=controls')
 
 ## 如何交易
 
