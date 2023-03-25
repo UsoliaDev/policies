@@ -6,10 +6,6 @@
 
 ----
 
-交易演示视频（可能不具有时效性，请以实际游戏为准）
-
-[example](https://coldplay.io/video/docs/trade.example.mp4 ':include :type=video height=500px controls=controls')
-
 ## 如何交易
 
 1. 与对方提前商议好交易的物品与有关细节。
@@ -19,6 +15,9 @@
 5. **在对方也接受交易后**，双方将均有 5 秒钟的确认时间用于最终核查交易内容，该时间内双方均可以随时中止交易过程。
 6. 如果无人在第 5 步中止了交易，交易将正常完成。
 
+交易演示视频（可能不具有时效性，请以实际游戏为准）
+
+[example](https://coldplay.io/video/docs/trade.example.mp4 ':include :type=video height=500px controls=controls')
 
 ### 允许的交易内容以及税款
 
@@ -27,6 +26,8 @@
 |  物品栏物品  |  0%  |      |
 | 原版游戏经验 |  5%  |      |
 | Plancash    |  5%    |      |
+
+----
 
 ## 其他功能
 
