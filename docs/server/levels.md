@@ -1,8 +1,8 @@
 # 等级系统
 
-服务器目前共有128级，更高等级可以获得更多的权限与奖励。
+服务器目前共有128级，更高等级可以获得更多的权限与奖励。``
 
-![loading](https://docs.coldplay.io/img/server_levels.jpg)
+![loading](https://coldplay.io/img/docs/server_levels.jpg)
 
 ----------
 
