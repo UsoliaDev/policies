@@ -2,7 +2,7 @@
 
 ----------
 
-我们在[2020.7.19的周更新](https://coldplay.iot/threads/weekly-update-7-12-7-19.60/)中添加了频道系统，以满足玩家跨服聊天的需求。
+我们在[2020.7.19的周更新](https://usolia.net/threads/weekly-update-7-12-7-19.60/)中添加了频道系统，以满足玩家跨服聊天的需求。
 
 
 

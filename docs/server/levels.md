@@ -4,7 +4,7 @@
 
 ----
 
-![server_levels.jpg (1920×1080) (coldplay.io)](https://coldplay.io/img/docs/server_levels.jpg)
+![server_levels.jpg (1920×1080) (usolia.net)](https://usolia.net/img/docs/server_levels.jpg)
 
 ----------
 

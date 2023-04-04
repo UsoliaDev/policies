@@ -1,6 +1,6 @@
 # 玩家交易
 
->该功能同样存在于 Creative Land II 服务器，参见[玩家交易（Creative Land II）](https://docs.coldplay.io/#/docs/server/cl02/trade)
+>该功能同样存在于 Creative Land II 服务器，参见[玩家交易（Creative Land II）](https://docs.usolia.net/#/docs/server/cl02/trade)
 
 *便捷的即时交易方式*
 
@@ -17,7 +17,7 @@
 
 交易演示视频（可能不具有时效性，请以实际游戏为准）
 
-[example](https://coldplay.io/video/docs/trade.example.mp4 ':include :type=video height=500px controls=controls')
+[example](https://usolia.net/video/docs/trade.example.mp4 ':include :type=video height=500px controls=controls')
 
 ### 允许的交易内容以及税款
 

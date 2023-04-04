@@ -6,13 +6,13 @@
 
 ## 架构图
 
-![loading](https://docs.coldplays.net/img/CLworld.png)
+![loading](https://docs.usolia.net/img/CLworld.png)
 
 ----------
 
 ## 艾兰特大陆
 
-于[2021秋季更新第四部分](https://coldplays.net/threads/175/)发布，该世界使用了全新的地形生成器，包含70+种生物群系。
+于[2021秋季更新第四部分](https://usolia.net/threads/175/)发布，该世界使用了全新的地形生成器，包含70+种生物群系。
 
 截图预览：
 ![加载中](https://i.loli.net/2021/10/17/Qgf7cy4whxCvTVq.png)

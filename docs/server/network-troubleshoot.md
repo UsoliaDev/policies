@@ -15,7 +15,7 @@
 
 对于Windows，请使用"Win+R"快捷键，输入cmd运行。
 
-在新打开的窗口内，输入`ping global.mc.coldplays.net`，并按Enter。
+在新打开的窗口内，输入`ping global.mc.usolia.net`，并按Enter。
 
 #### a - 成功输出了IP地址
 
@@ -23,11 +23,11 @@
 
 #### b - 无法解析IP
 
-示例输出：*Ping 请求找不到主机 iwanna.to.play.coldplays.net。请检查该名称，然后重试。*
+示例输出：*Ping 请求找不到主机 global.mc.usolia.net。请检查该名称，然后重试。*
 
 这说明您的DNS解析有问题，通常是DNS解析提供商所致，也可能是您的本地网络问题。
 
-如果您无法解决该问题，请访问[ping.chinaz.com](ping.chinaz.com)，输入global.mc.coldplays.net，复制响应IP填写到多人游戏界面的服务器地址内。
+如果您无法解决该问题，请访问[ping.chinaz.com](ping.chinaz.com)，输入global.mc.usolia.net，复制响应IP填写到多人游戏界面的服务器地址内。
 
 !> 注意：这不是一个长久解决方案，且如果出现此现象，您的正常互联网访问也可能会出现问题，请善用搜索引擎或向您的ISP寻求解决方案（后者效率远低于前者）
 
@@ -58,7 +58,7 @@
 
 ?> Besttrace 工具，由IPIP.net，北京天特信科技有限公司开发
 
-安装完成后，打开软件主界面，在右侧侧边栏中点击“MTR”，然后在新打开的窗口中，填写服务器IP（global.mc.coldplays.net），请求次数选择100，然后点击“开始”。
+安装完成后，打开软件主界面，在右侧侧边栏中点击“MTR”，然后在新打开的窗口中，填写服务器IP（global.mc.usolia.net），请求次数选择100，然后点击“开始”。
 
 等待所有数据包发送完毕后，将界面截图保存，并作为附件发送给我们即可
 

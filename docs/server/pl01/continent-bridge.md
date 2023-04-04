@@ -7,7 +7,7 @@
 
 大陆桥分散在世界各地，其通常包含一个信标用于标识，像这样：
 
-![](https://docs.coldplay.io/img/cbridge.png)
+![](https://docs.usolia.net/img/cbridge.png)
 
 其目前在以下地点设有接入点：
 

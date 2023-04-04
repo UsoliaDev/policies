@@ -4,7 +4,7 @@
 
 ----------
 
-![帕米尼亚核心区 | 摄于2023/1/18](https://coldplay.io/img/docs/cl02/intro-banner-remake.png)
+![帕米尼亚核心区 | 摄于2023/1/18](https://usolia.net/img/docs/cl02/intro-banner-remake.png)
 
 ?> 图为 Creative Land 主城帕米尼亚核心区，摄于2023/1/18
 

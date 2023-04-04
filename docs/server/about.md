@@ -1,16 +1,17 @@
 # 关于我们
 
+![usolia-banner.png (1440×360)](https://usolia.net/img/usolia-banner.png)
 
-Hi, 我们是Coldplay Network
+Hi，我们是 Usolia Network（前身为 Coldplay Network）
 
-自2020.2，Java版服务器首次开启之时起，我们已有累计1800+玩家注册量，且在将近三年的运营中无中断记录
+自 2020.2，Java 版服务器首次开启之时起，我们已有累计 1800+ 玩家注册量，且在三年以上的运营中无中断记录。
 
 ----------
 
 
-### *可持续发展的运营策略 / 温暖和谐的玩家社区 / 独具一格的游戏玩法*
+### *可持续性的运营策略 / 温暖和谐的玩家社区 / 独具一格的游戏玩法*
 
-![图片加载中](https://docs.coldplay.io/img/2023-new-year-eve.png)
+![图片加载中](https://docs.usolia.net/img/2023-new-year-eve.png)
 
 > 摄于2023新年活动，当晚共有20人参与
 
@@ -29,13 +30,13 @@ Hi, 我们是Coldplay Network
 
 #### 接下来你可以：
 
- - [阅读新手指南](https://docs.coldplay.io/#/csje/guides-new)
- - [加入服务器](https://docs.coldplay.io/#/)
+ - [阅读新手指南](https://docs.usolia.net/#/csje/guides-new)
+ - [加入服务器](https://docs.usolia.net/#/)
  - QQ群：641358246
- - 服务器官网：[coldplay.io](https://coldplay.io)
- - 了解[数据处理政策](https://docs.coldplay.io/#/csje/privacy)
+ - 服务器官网：[usolia.net](https://usolia.net)
+ - 了解[数据处理政策](https://docs.usolia.net/#/csje/privacy)
 
 
 游戏愉快，
 <br>
-Coldplay Network
+Usolia Network

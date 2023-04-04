@@ -6,9 +6,9 @@
 
 ## 如何获(bai)得(piao)
 
-- 通过[官网商店](https://store.coldplay.io)购买
+- 通过[官网商店](https://store.usolia.net)购买
 - <s>跟腐竹混眼熟以白嫖会员</s>
-- 提高服务器等级可免费获得永久会员（具体参见[等级系统](https://docs.coldplays.net/#/csje/levels)）
+- 提高服务器等级可免费获得永久会员（具体参见[等级系统](https://docs.usolia.net/#/csje/levels)）
 - 部分礼包，包括免费礼包也会包含会员等级
 - 参加服务器定期举办的大型活动
 

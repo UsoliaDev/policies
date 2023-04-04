@@ -2,7 +2,7 @@
 
 ?> 最后更改：2023.4.1
 
-Hello，欢迎来到Coldplay Network，<br>
+Hello，欢迎来到 Usolia Network，<br>
 本文将尽可能帮助你快速了解服务器。
 
 ### 初来乍到
@@ -19,7 +19,7 @@ Hello，欢迎来到Coldplay Network，<br>
 
 ###### ① 版本选择
 
-截至撰写本文时，服务器支持 1.8-1.19 版本客户端进入游戏，以确保最大的便利性（部分子服务器可能具有更高的版本要求）。但使用低于服务器端版本的客户端版本，可能会导致部分内容缺失；你可以在 [这里](https://docs.coldplay.io/#/docs/server/servers) 查看所有服务器及其版本。
+截至撰写本文时，服务器支持 1.8-1.19 版本客户端进入游戏，以确保最大的便利性（部分子服务器可能具有更高的版本要求）。但使用低于服务器端版本的客户端版本，可能会导致部分内容缺失；你可以在 [这里](https://docs.usolia.net/#/docs/server/servers) 查看所有服务器及其版本。
 
 因此，如果你主要游玩生存玩法服务器，建议使用最新版本；如果你是小游戏玩家，建议使用1.8.9进入游戏。
 
@@ -27,11 +27,11 @@ Hello，欢迎来到Coldplay Network，<br>
 
 服务器位于欧洲，如果你从中国大陆连接则可能会出现较大延时和丢包。
 
-你可以尝试使用服务器提供的加速线路（在知识库主页查看）进入游戏，如果仍有较大延迟，请参阅[“网络故障排除”](https://docs.coldplay.io/#/csje/network-troubleshoot)一文。
+你可以尝试使用服务器提供的加速线路（在知识库主页查看）进入游戏，如果仍有较大延迟，请参阅[“网络故障排除”](https://docs.usolia.net/#/csje/network-troubleshoot)一文。
 
 ###### ③ 其他问题
 
-有些 bug 可能会想方设法地阻止你进入服务器。如果你在进入服务器时遇到了问题，可以在 [帮助台 | Coldplay Network](https://coldplay.io/forums/support/) 联系我们。
+有些 bug 可能会想方设法地阻止你进入服务器。如果你在进入服务器时遇到了问题，可以在 [帮助台 | Usolia Network](https://usolia.net/forums/support/) 联系我们。
 
 #### 2.加入社群
 
@@ -40,7 +40,7 @@ Hello，欢迎来到Coldplay Network，<br>
 
 ###### ① QQ群
 
-服务器国内玩家最大的聚集地，同时它也是少有的历史比服务器本身（Coldplay Java版服务器）还要悠久的存在。
+服务器国内玩家最大的聚集地，同时它也是少有的历史比服务器本身（Usolia Java 版服务器）还要悠久的存在。
 
 你可以在这里探讨各种话题点子，也可以与其他成员一起愉快吹水(xD
 
@@ -60,7 +60,7 @@ Discord 邀请链接： https://discord.com/invite/hDNMZv5
 
 论坛则可以让这些内容得到充分的展示和讨论，同时服务器的各种新闻公告也会第一时间在这里发布。
 
-你甚至还可以在这里发布你自己举办的活动，确定不来[看看](https://coldplay.io/forums/%E7%A4%BE%E5%8C%BA%E6%B4%BB%E5%8A%A8.12/)？
+你甚至还可以在这里发布你自己举办的活动，确定不来[看看](https://usolia.net/forums/%E7%A4%BE%E5%8C%BA%E6%B4%BB%E5%8A%A8.12/)？
 
 ### 逐渐深入
 
@@ -68,16 +68,16 @@ Discord 邀请链接： https://discord.com/invite/hDNMZv5
 
 #### 服务器设定
 
-这些设定贯穿了整个 Coldplay Network，你可以在各个地方找到它们的影子。
+这些设定贯穿了整个 Usolia Network，你可以在各个地方找到它们的影子。
 
 ###### ① 经济
 
-服务器的主货币为 Point，部分服务器有自己的专属货币，详细信息可以前往 [服务器一览](https://docs.coldplay.io/#/docs/server/servers) 一文查看。
+服务器的主货币为 Point，部分服务器有自己的专属货币，详细信息可以前往 [服务器一览](https://docs.usolia.net/#/docs/server/servers) 一文查看。
 
 ###### ② 规则与处罚机制
 
- - [服务器规则](https://coldplay.io/rules)
- - [处罚机制](https://docs.coldplay.io/#/mechanism/punishments)
+ - [服务器规则](https://usolia.net/rules)
+ - [处罚机制](https://docs.usolia.net/#/mechanism/punishments)
 
 
 #### 游戏服务器
@@ -90,7 +90,7 @@ Discord 邀请链接： https://discord.com/invite/hDNMZv5
 
 拥有多于原版几倍的生物群系数量，和无数贴近现实的自然景观；同时游戏难度也相对较高，适合喜欢挑战的玩家前往。
 
-了解更多：[该服务器介绍 (Wiki)](https://wiki.coldplay.io/index.php?title=Creative_Land_II)
+了解更多：[该服务器介绍 (Wiki)](https://wiki.usolia.net/index.php?title=Creative_Land_II)
 
 
 ##### Planet
@@ -103,7 +103,7 @@ Discord 邀请链接： https://discord.com/invite/hDNMZv5
 
 拥有相较于其他服务器更高的建筑美观性要求，推荐较为熟悉《Minecraft》的玩家游玩。
 
-了解更多：[该服务器介绍 (Wiki)](https://wiki.coldplay.io/index.php?title=Planet) | [Planet 铁路 (Wiki)](https://wiki.coldplay.io/index.php?title=Planet%E9%93%81%E8%B7%AF)
+了解更多：[该服务器介绍 (Wiki)](https://wiki.usolia.net/index.php?title=Planet) | [Planet 铁路 (Wiki)](https://wiki.usolia.net/index.php?title=Planet%E9%93%81%E8%B7%AF)
 
 ?> [点此](https://satellite.coldplays.net)访问该服务器卫星地图
  
@@ -116,4 +116,4 @@ Discord 邀请链接： https://discord.com/invite/hDNMZv5
 如果觉得服务器还不错的话，可以考虑通过购买服务器虚拟物品来支持服务器的发展。
 
 游戏愉快！<br>
-Coldplay Network
+Usolia Network

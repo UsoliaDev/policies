@@ -1,12 +1,12 @@
 # 查找史莱姆区块
 
->该功能同样存在于 Planet 服务器，参见[查找史莱姆区块（Planet）](https://docs.coldplay.io/#/docs/server/pl01/slimechunk-view) 
+>该功能同样存在于 Planet 服务器，参见[查找史莱姆区块（Planet）](https://docs.usolia.net/#/docs/server/pl01/slimechunk-view) 
 
 *还在使用各种奇奇怪怪的方法寻找史莱姆区块吗？现在你不再需要这样做了*
 
 -----------
 
-![slimechunk.png (1920×992) (coldplay.io)](https://coldplay.io/img/docs/cl02/slimechunk-view/slimechunk.png)
+![slimechunk.png (1920×992) (usolia.net)](https://usolia.net/img/docs/cl02/slimechunk-view/slimechunk.png)
 
 你可以使用以下任意方法之一查看史莱姆区块：
 

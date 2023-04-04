@@ -18,7 +18,7 @@ Planet的铁路相较于原版《Minecraft》可以达到最高4倍速；如有�
 
 即可！就像这样：
 
-![](https://coldplay.io/img/docs/pl01/speedmine.png)
+![](https://usolia.net/img/docs/pl01/speedmine.png)
 
 请务必也注意以下几点：
 

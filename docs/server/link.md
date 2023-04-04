@@ -6,10 +6,10 @@
 
 在大厅服务器中输入指令 `/link` ，耐心等待几秒后，你将收到以下提示：
 
-![](https://coldplay.io/img/docs/link-account.png)
+![](https://usolia.net/img/docs/link-account.png)
 
-戳它！你将来到我们的官网 [coldplay.io](https://coldplay.io) 以完成账号关联。
+戳它！你将来到我们的官网 [usolia.net](https://usolia.net) 以完成账号关联。
 
 如果你还没有登录，你将被要求在关联账号前登录。
 
-为了确保你已成功完成账号关联，请访问 [https://coldplay.io/account/link-minecraft](https://coldplay.io/account/link-minecraft)
+为了确保你已成功完成账号关联，请访问 [https://usolia.net/account/link-minecraft](https://usolia.net/account/link-minecraft)
