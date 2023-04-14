@@ -1,6 +1,6 @@
 # 新手指南
 
-?> 最后更改：2023.4.1
+?> 最后更改：2023.4.14
 
 Hello，欢迎来到 Usolia Network，<br>
 本文将尽可能帮助你快速了解服务器。
@@ -92,6 +92,7 @@ Discord 邀请链接： https://discord.com/invite/hDNMZv5
 
 了解更多：[该服务器介绍 (Wiki)](https://wiki.usolia.net/index.php?title=Creative_Land_II)
 
+?> [点此](https://satellite.usolia.net/cl) 访问该服务器卫星地图
 
 ##### Planet
 
@@ -105,7 +106,7 @@ Discord 邀请链接： https://discord.com/invite/hDNMZv5
 
 了解更多：[该服务器介绍 (Wiki)](https://wiki.usolia.net/index.php?title=Planet) | [Planet 铁路 (Wiki)](https://wiki.usolia.net/index.php?title=Planet%E9%93%81%E8%B7%AF)
 
-?> [点此](https://satellite.coldplays.net)访问该服务器卫星地图
+?> [点此](https://satellite.usolia.net/pl) 访问该服务器卫星地图
  
  
 ----------
