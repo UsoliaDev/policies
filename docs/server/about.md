@@ -32,8 +32,8 @@ Hi，我们是 Usolia Network（前身为 Coldplay Network）
 
  - [阅读新手指南](https://docs.usolia.net/#/csje/guides-new)
  - [加入服务器](https://docs.usolia.net/#/)
- - QQ群：641358246
- - 服务器官网：[usolia.net](https://usolia.net)
+ - 加入服务器 QQ 群：641358246
+ - 访问服务器官网与论坛：[usolia.net](https://usolia.net)
  - 了解[数据处理政策](https://docs.usolia.net/#/csje/privacy)
 
 
