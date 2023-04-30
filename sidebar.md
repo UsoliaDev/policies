@@ -25,7 +25,7 @@
 	* [查找史莱姆区块](docs/server/cl02/slimechunk-view.md)
     * [玩家交易](docs/server/cl02/trade.md)
   - Planet
-    * [季节与气候（未完成）](docs/server/pl01/seasons.md)
+    * [季节更替](docs/server/pl01/seasons.md)
     * [大陆桥](docs/server/pl01/continent-bridge.md)
     * [轨交建设标准](docs/server/pl01/railway-standards.md)
     * [铁路加速](docs/server/pl01/speedmine.md)
