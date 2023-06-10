@@ -4,6 +4,8 @@
 
 *还在使用各种奇奇怪怪的方法寻找史莱姆区块吗？现在你不再需要这样做了*
 
+*本文最后更新于 2023.4.4*
+
 -----------
 
 ![slimechunk.png (1920×992) (usolia.net)](https://usolia.net/img/docs/cl02/slimechunk-view/slimechunk.png)
