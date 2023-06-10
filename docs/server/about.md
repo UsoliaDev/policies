@@ -1,5 +1,7 @@
 # 关于我们
 
+*本文最后更新于 2023.4.14*
+
 ![usolia-banner.png (1440×360)](https://usolia.net/img/usolia-banner.png)
 
 Hi，我们是 Usolia Network（前身为 Coldplay Network）
