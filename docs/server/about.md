@@ -15,7 +15,7 @@ Hi，我们是 Usolia Network（前身为 Coldplay Network）
 
 ![图片加载中](https://docs.usolia.net/img/2023-new-year-eve.png)
 
-> 摄于2023新年活动，当晚共有20人参与
+> 摄于 2023 元旦的新年活动，当晚共有20人参与其中。
 
 我们最初也都是像你一样的玩家 —— 希望能拥有一个稳定且温馨的游戏环境。
 
@@ -23,20 +23,20 @@ Hi，我们是 Usolia Network（前身为 Coldplay Network）
 <br>
 <br>
 <br>
-在这个纷繁的快餐时代，我们想用自己证明，并不是所有商业服务器都在窥探着你的钱包 —— 我们更希望，也更相信这是一个双向的过程 —— 你会愿意为你所喜爱的内容买单
+在这个纷繁的快餐时代，我们想用自己证明，并不是所有商业服务器都在窥探着你的钱包 —— 我们更希望，也更相信这是一个双向的过程 —— 你会愿意为你所喜爱的内容买单。
 
-愿我们能在一片由热爱与友谊结成的天空之下，重获最初接触《我的世界》时的美好
+愿我们能在一片由热爱与友谊结成的天空之下，重获最初接触《我的世界》时的美好。
 <br>
 <br>
 <br>
 
 #### 接下来你可以：
 
- - [阅读新手指南](https://docs.usolia.net/#/csje/guides-new)
+ - [阅读新手指南](https://docs.usolia.net/#/docs/server/guides-new)
  - [加入服务器](https://docs.usolia.net/#/)
  - 加入服务器 QQ 群：641358246
  - 访问服务器官网与论坛：[usolia.net](https://usolia.net)
- - 了解[数据处理政策](https://docs.usolia.net/#/csje/privacy)
+ - 了解[数据处理政策](https://docs.usolia.net/#/docs/server/privacy)
 
 
 游戏愉快，
