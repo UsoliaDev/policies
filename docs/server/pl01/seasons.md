@@ -2,6 +2,8 @@
 
 *Just like a true "Planet"*
 
+*本文最后更新于 2023.5.21*
+
 ----
 ![seasons-banner.png (1920×991) (usolia.net)](https://usolia.net/img/docs/pl01/seasons/seasons-banner.png)
 
