@@ -2,6 +2,8 @@
 
 *一片充满生机的新大陆*
 
+*本文最后更新于 2023.4.4*
+
 ----------
 
 ![帕米尼亚核心区 | 摄于2023/1/18](https://usolia.net/img/docs/cl02/intro-banner-remake.png)
