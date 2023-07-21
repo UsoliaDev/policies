@@ -8,6 +8,7 @@
     * [服务器等级](docs/server/mechanisms/level.md)
     * [贡献值（未完成）](docs/server/mechanisms/contributions.md)
     * [处罚机制](docs/server/mechanisms/punishments.md)
+    * [游戏翻译器](docs/server/mechanisms/translator.md)
   - 通用
     * [经济](docs/server/economy.md)
     * [会员等级](docs/server/rank.md)
