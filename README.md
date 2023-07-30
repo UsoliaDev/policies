@@ -24,6 +24,8 @@ Discord: [邀请链接](https://discord.gg/hDNMZv5)
 
 ?> de-centre-1.mc.usolia.net
 
+?> de-centre-2.mc.usolia.net
+
 国际线路（国际运营商线路 | 99.9% SLA）
 
 ?> global.mc.usolia.net
