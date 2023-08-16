@@ -50,6 +50,5 @@
 | 玩家数量限制/领地（/lands trust）| ○ | ○ | 30 | 40 | 50 |  <font color=FFAA00>60</font> |
 | 加入领地数量限制 | ○ | ○ | 6 | 10 | 15 |  <font color=FFAA00>20</font> |
 | <font color=55FF55>></font> 免费大陆桥传送<br>每月 | ○ | ○ | 1 | 2 | 4 | <font color=FFAA00>6</font> |
-| <font color=55FF55>></font> 超视距 | ○ | ○ | ○ | ○ | ○ | <font color=FFAA00>●</font> |
 
 *每在线一个小时额外奖励2个 4★神秘箱 ，每在线一天额外奖励2个5★神秘箱
