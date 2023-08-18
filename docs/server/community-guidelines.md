@@ -121,9 +121,9 @@ Person B：你说得对，但是......
 
 ---
 
-祝你在这里玩的开心，
-Usolia 社区管理团队（Community Management Team） / UCMT
-of
+祝你在这里玩的开心，<br>
+Usolia 社区管理团队（Community Management Team） / UCMT<br>
+of<br>
 Usolia Network —— where solitude does not exists.
 
 **我们正在持续改进该准则！欢迎前往论坛 [Ideas & Insights 板块](https://usolia.net/forums/7/)提出修改建议。**
