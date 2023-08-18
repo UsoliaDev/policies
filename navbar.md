@@ -1,4 +1,2 @@
-<!-- _navbar.md -->
-
-* [返回知识库](https://usolia.net/forums)
+* [返回知识库](https://docs.usolia.net)
 * [官网](https://usolia.net)
