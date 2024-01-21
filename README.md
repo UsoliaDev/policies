@@ -1,4 +1,4 @@
-![usolia-banner.png (1440×360)](https://usolia.net/img/usolia-banner.png)
+![usolia-banner.png (1440×360)](https://assets-docs.usolia.net/docs.usolia.net/images/general/usolia-banner.png)
 
 *Despite the differences we have, we choose to gather.*
 
