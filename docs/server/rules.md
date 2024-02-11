@@ -9,6 +9,7 @@
 ## 前置规则
 
 - [社区准则](https://policies.usolia.net/#/docs/server/community-guidelines)
+
 ## 适用范围
 
 - Usolia 《我的世界》游戏服务器网络（Usolia Network）
