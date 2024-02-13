@@ -1,3 +1,5 @@
 * [知识库](https://docs.usolia.net)
-* [官网](https://usolia.net)
-* [Github](https://github.com/UsoliaDev/policies)
+* [论坛](https://usolia.net/forums)
+* [Wiki](https://wiki.usolia.net)
+* [卫星](https://satellite.usolia.net)
+* [Github](https://github.com/UsoliaDev/)
