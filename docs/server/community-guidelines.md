@@ -118,7 +118,3 @@ Usolia Network 社区
 - [# 工具 | 中国大陆救援队热线汇总（2022.3.1期）](https://mp.weixin.qq.com/s/QRsNjZ7pIslUYPF67PVeNg)
 
 希望在这里的时光让你值得记忆（并且能一直持续下去！）
-
----
-
-**我们正在持续改进该准则！欢迎前往论坛 [Ideas  Insights 板块](https://usolia.net/forums/7/) 提出修改建议。**
