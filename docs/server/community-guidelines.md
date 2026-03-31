@@ -99,7 +99,7 @@ Usolia Network 社区
 * 一般性问题问询：[uso.li/help](https://uso.li/help)
 * 建议与意见反馈：[uso.li/ideas](https://uso.li/ideas)
 * 服务器错误与漏洞反馈：[uso.li/bug](https://uso.li/bug)
-* 违规玩家举报：[uso.li/report](https://uso.li/report)
+* 失当行为举报：[uso.li/report](https://uso.li/report)
 * 申诉：[uso.li/appeal](https://uso.li/appeal)
 
 如果某件事需要你用50个字以上来描述，就可以考虑把它提交在论坛上了。
